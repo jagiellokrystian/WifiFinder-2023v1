@@ -1,0 +1,4 @@
+﻿  Program.cpp
+C:\Users\super\Documents\Krystian Jagiełło 2E\Program\Program\Program.cpp(22,24): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\super\Documents\Krystian Jagiełło 2E\Program\Program\Program.cpp(85,24): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+  Program.vcxproj -> C:\Users\super\Documents\Krystian Jagiełło 2E\Program\x64\Debug\Program.exe
