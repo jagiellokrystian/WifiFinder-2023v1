@@ -1,4 +1,4 @@
-WifiFinder is a simple program that shows the current status of a WiFi network.
+Wifi Finder is a simple program that shows the current status of a WiFi network.
 
 Owner: Krystian Jagiełło
 
