@@ -1,4 +1,0 @@
-﻿  Program.cpp
-C:\Krystian Jagiełło 2\WifiFinder-2023v1\WiFi Finder\Program\Program.cpp(25,24): warning C4101: 'e': unreferenced local variable
-C:\Krystian Jagiełło 2\WifiFinder-2023v1\WiFi Finder\Program\Program.cpp(75,24): warning C4101: 'e': unreferenced local variable
-  Program.vcxproj -> C:\Krystian Jagiełło 2\WifiFinder-2023v1\WiFi Finder\x64\Debug\Program.exe
